@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kartikeysharmaks 
-- 👀 I’m interested in Full stack Develpoment , Java
+- 👀 I’m interested in Full stack Develpoment and Java
 - 🌱 I’m currently learning Next.js Tailwind CSS
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me - 📩 kartikeysharma1616@gmail.com
