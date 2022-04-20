@@ -37,7 +37,7 @@ ________________________________________________________________________________
 [facebook]:  https://www.facebook.com/kartikey.sharma.9480111
 [website]: https://kartikeysharmaks.github.io/
 [instagram]: https://instagram.com/kartikey_sharma.ks
-[twitter]: https://twitter.com/SaroshAbdullah3?s=09
+[twitter]: https://twitter.com/Kartikey0302
 [linkedin]: https://www.linkedin.com/in/kartikey-sharma-55303b20a/
 <!---
 kartikeysharmaks/kartikeysharmaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
