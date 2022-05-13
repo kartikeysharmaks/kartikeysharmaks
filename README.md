@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me - 📩 kartikeysharma1616@gmail.com
 
+![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
+
 _______________________________________________________________________________________________________________________________________________________________________
 
 ### ⚒️  Languages and Tools:
