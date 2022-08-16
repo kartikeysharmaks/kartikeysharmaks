@@ -40,7 +40,7 @@ ________________________________________________________________________________
 [website]: https://kartikeysharmaks.github.io/
 [instagram]: https://instagram.com/kartikey_sharma.ks
 [twitter]: https://twitter.com/Kartikey0302
-[linkedin]: https://www.linkedin.com/in/kartikey-sharma-55303b20a/
+[linkedin]: https://www.linkedin.com/in/kartikeysharmaks/
 <!---
 kartikeysharmaks/kartikeysharmaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
