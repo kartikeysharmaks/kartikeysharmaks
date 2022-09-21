@@ -6,13 +6,25 @@
 
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
+### 👨‍💻  &nbsp;About Me
+
 - 👋 Hi, I’m @kartikeysharmaks 
 - 👀 I’m interested in Full stack Develpoment and Java
 - 🌱 I’m currently working on problem solving and enhancing my skills.
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me - 📩 kartikeysharma1616@gmail.com
 
+
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
+
+
+
+https://kartikeysharmaks.netlify.app/
+-
+
+
+
+#### “Things aren’t always #000000 and #FFFFFF🌈.”
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -23,9 +35,15 @@ ________________________________________________________________________________
 <a href="https://git-scm.com/" title="git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img align="left" alt="GitHub"  width="40" height="40"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
  
-<br>
+ ---
 
+![Readme Card](https://github-readme-stats.vercel.app/api?username=kartikeysharmaks&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=contribs,prs)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysharmaks&layout=compact)
+
+---
 
 ### Connect with me: 
 
