@@ -1,3 +1,12 @@
+<h1 align="center">I am a Full Stack & Blockchain Developer</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20Developer;Data%20Scientist/AI%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypotter518" alt="harrypotter518" /> </p>
+
+<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
+
 - 👋 Hi, I’m @kartikeysharmaks 
 - 👀 I’m interested in Full stack Develpoment and Java
 - 🌱 I’m currently learning Next.js Tailwind CSS
