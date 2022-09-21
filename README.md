@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React-JS%20Developer;UI/UX%20Developer;Web%20and%20Mobile%20Apps%20Developer;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
 
-
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
 ### 👨‍💻  &nbsp;About Me
@@ -18,10 +17,8 @@
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
 
 
-
 https://kartikeysharmaks.netlify.app/
 -
-
 
 
 #### “Things aren’t always #000000 and #FFFFFF🌈.”
