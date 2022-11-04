@@ -43,6 +43,10 @@ ________________________________________________________________________________
 
 ---
 
+[![@kartikeysharmaks's Holopin board](https://holopin.me/kartikeysharmaks)](https://holopin.io/@kartikeysharmaks)
+
+---
+
 ### Connect with me: 
 
  [<img align="left" alt="kartikey Sharma | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
