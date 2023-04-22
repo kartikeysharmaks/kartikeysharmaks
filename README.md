@@ -1,6 +1,6 @@
-<h1 align="center">I am a Frontend Web & Mobile Developer</h1>
+<h1 align="center">I am a Full Stack Web & Mobile Developer</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React-JS%20Developer;UI/UX%20Developer;Web%20and%20Mobile%20Apps%20Developer;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React.js%20Developer;Vue.js%20Developer;UI/UX%20Developer;Web%20and%20Mobile%20Apps%20Developer;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
 
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
