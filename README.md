@@ -55,9 +55,9 @@ ________________________________________________________________________________
  [<img align="left" alt="kartikey Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[facebook]: https://www.facebook.com/kartikey.sharma.9480111
+[facebook]: https://www.facebook.com/kartikeysharma1616/
 [website]: https://kartikeysharmaks.github.io/
-[instagram]: https://instagram.com/kartikey_sharma.ks
+[instagram]: https://instagram.com/kartikeysharmaks
 [twitter]: https://twitter.com/Kartikey0302
 [linkedin]: https://www.linkedin.com/in/kartikeysharmaks/
 <!---
