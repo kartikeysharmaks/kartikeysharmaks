@@ -17,7 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
 
 
-https://kartikeysharmaks.netlify.app/
+https://kartikeysharmaks.vercel.app/
 -
 
 
