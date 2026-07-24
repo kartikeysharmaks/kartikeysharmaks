@@ -48,12 +48,12 @@ https://kartikeysharmaks.in/
 
 ### Connect with me: 
 
- [<img align="left" alt="kartikey Sharma | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
- [<img align="left" alt="kartikey Sharma | Google" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][Google]
+ [<img align="left" alt="kartikey Sharma | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+ [<img align="left" alt="kartikey Sharma | Website" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][website]
  [<img align="left" alt="kartikey Sharma | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  [<img align="left" alt="kartikey Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
  [<img align="left" alt="kartikey Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="kartikey Sharma | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
+ [<img align="left" alt="kartikey Sharma | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
  
  
 
