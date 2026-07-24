@@ -7,7 +7,13 @@
 
 ### 👨‍💻  &nbsp;About Me
 
-- I am a Software Engineer with 3+ years of professional experience specializing in full-stack development, AI integration, and data annotation. My expertise spans multiple programming languages including Python, JavaScript, TypeScript, HTML, and CSS, combined with strong problem-solving skills and deep knowledge of Data Structures and Algorithms (DSA). I excel in code review, debugging, and writing efficient, maintainable code across web development projects. My technical toolkit includes modern frontend frameworks like React.js and Next.js, backend technologies such as Node.js, and database management with MongoDB, SQL etc. Beyond traditional development, I have specialized experience in AI-focused domains including prompt engineering, agentic coding, model comparison, and LLM evaluation, where I assess and improve AI model outputs for accuracy and instruction following. I also bring expertise in system programming for building robust, scalable applications, and have hands-on experience with Data Annotation tasks for training and evaluating frontier AI models. My combination of classical software engineering fundamentals and cutting-edge AI skills enables me to deliver high-quality solutions that bridge traditional development with next-generation machine learning workflows.
+- I am a Software Engineer with 3+ years of professional experience specializing in full-stack development, AI integration, and data annotation.
+- My expertise spans multiple programming languages including Python, JavaScript, TypeScript, HTML, and CSS, combined with strong problem-solving skills and deep knowledge of Data Structures and Algorithms (DSA).
+- I excel in code review, debugging, and writing efficient, maintainable code across web development projects.
+- My technical toolkit includes modern frontend frameworks like React.js and Next.js, backend technologies such as Node.js, and database management with MongoDB, SQL etc.
+- Beyond traditional development, I have specialized experience in AI-focused domains including prompt engineering, agentic coding, model comparison, and LLM evaluation, where I assess and improve AI model outputs for accuracy and instruction following.
+- I also bring expertise in system programming for building robust, scalable applications, and have hands-on experience with Data Annotation tasks for training and evaluating frontier AI models.
+- My combination of classical software engineering fundamentals and cutting-edge AI skills enables me to deliver high-quality solutions that bridge traditional development with next-generation machine learning workflows.
 - 📫 How to reach me - 📩 kartikeysharma1616@gmail.com
 
 
