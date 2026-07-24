@@ -55,7 +55,6 @@ https://kartikeysharmaks.in/
  [<img align="left" alt="kartikey Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="kartikey Sharma | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
  
- 
 
 [facebook]: https://www.facebook.com/kartikeysharma1616/
 [website]: https://www.kartikeysharmaks.in/
