@@ -7,17 +7,14 @@
 
 ### 👨‍💻  &nbsp;About Me
 
-- 👋 Hi, I’m @kartikeysharmaks 
-- 👀 I’m interested in Full stack Develpoment and Java
-- 🌱 I’m currently working on problem solving and enhancing my skills.
-- 💞️ I’m looking to collaborate on Web Projects
+- I am a Software Engineer with 3+ years of professional experience specializing in full-stack development, AI integration, and data annotation. My expertise spans multiple programming languages including Python, JavaScript, TypeScript, HTML, and CSS, combined with strong problem-solving skills and deep knowledge of Data Structures and Algorithms (DSA). I excel in code review, debugging, and writing efficient, maintainable code across web development projects. My technical toolkit includes modern frontend frameworks like React.js and Next.js, backend technologies such as Node.js, and database management with MongoDB, SQL etc. Beyond traditional development, I have specialized experience in AI-focused domains including prompt engineering, agentic coding, model comparison, and LLM evaluation, where I assess and improve AI model outputs for accuracy and instruction following. I also bring expertise in system programming for building robust, scalable applications, and have hands-on experience with Data Annotation tasks for training and evaluating frontier AI models. My combination of classical software engineering fundamentals and cutting-edge AI skills enables me to deliver high-quality solutions that bridge traditional development with next-generation machine learning workflows.
 - 📫 How to reach me - 📩 kartikeysharma1616@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
 
 
-https://kartikeysharmaks.vercel.app/
+https://kartikeysharmaks.in/
 -
 
 
@@ -50,16 +47,21 @@ ________________________________________________________________________________
 ### Connect with me: 
 
  [<img align="left" alt="kartikey Sharma | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+ [<img align="left" alt="kartikey Sharma | Google" width="30px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][Google]
  [<img align="left" alt="kartikey Sharma | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  [<img align="left" alt="kartikey Sharma | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
  [<img align="left" alt="kartikey Sharma | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="kartikey Sharma | Reddit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
+ 
+ 
 
 
 [facebook]: https://www.facebook.com/kartikeysharma1616/
-[website]: https://kartikeysharmaks.github.io/
+[website]: https://www.kartikeysharmaks.in/
 [instagram]: https://instagram.com/kartikeysharmaks
 [twitter]: https://twitter.com/Kartikey0302
 [linkedin]: https://www.linkedin.com/in/kartikeysharmaks/
+[reddit]: https://www.reddit.com/user/Kartikeysharmaks
 <!---
 kartikeysharmaks/kartikeysharmaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
