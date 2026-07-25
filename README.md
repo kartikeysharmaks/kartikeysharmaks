@@ -1,75 +1,210 @@
-<h1 align="center">I am a Full Stack Web & Mobile Developer</h1>
+<h1 align="center">Hi 👋, I'm Kartikey Sharma</h1>
+
+<h3 align="center">
+Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
+</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React.js%20Developer;Vue.js%20Developer;UI/UX%20Developer;Web%20and%20Mobile%20Apps%20Developer;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+%7C+Next.js+Developer;Full+Stack+JavaScript+Developer;Building+Beautiful+Web+Experiences;Travel+Content+Creator;Always+Learning+Something+New" />
+</a>
 </p>
 
-<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
+<p align="center">
 
-### 👨‍💻  &nbsp;About Me
+![](https://komarev.com/ghpvc/?username=kartikeysharmaks&label=Profile+Views&color=0e75b6&style=flat)
 
-- I am a Software Engineer with 3+ years of professional experience specializing in full-stack development, AI integration, and data annotation.
-- My expertise spans multiple programming languages including Python, JavaScript, TypeScript, HTML, and CSS, combined with strong problem-solving skills and deep knowledge of Data Structures and Algorithms (DSA).
-- I excel in code review, debugging, and writing efficient, maintainable code across web development projects.
-- My technical toolkit includes modern frontend frameworks like React.js and Next.js, backend technologies such as Node.js, and database management with MongoDB, SQL etc.
-- Beyond traditional development, I have specialized experience in AI-focused domains including prompt engineering, agentic coding, model comparison, and LLM evaluation, where I assess and improve AI model outputs for accuracy and instruction following.
-- I also bring expertise in system programming for building robust, scalable applications, and have hands-on experience with Data Annotation tasks for training and evaluating frontier AI models.
-- My combination of classical software engineering fundamentals and cutting-edge AI skills enables me to deliver high-quality solutions that bridge traditional development with next-generation machine learning workflows.
-- 📫 How to reach me - 📩 kartikeysharma1616@gmail.com
-
-
-![](https://komarev.com/ghpvc/?username=kartikeysharmaks&color=blue)
-
-
-https://kartikeysharmaks.in/
--
-
-
-### ⚒️  Languages and Tools:
-  
-<a href="https://www.java.com" title="java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.w3.org/html/" title="html5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" title="css3" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://getbootstrap.com" title= "bootstrap" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://react.dev/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://www.gatsbyjs.com/" title="gatsbyjs" target="_blank"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/></a> <a href="https://redux.js.org" title="redux" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://reactnative.dev/" title="react native" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://nextjs.org/" title="nextjs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a> <a href="https://sass-lang.com" title= "sass" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" title="tailwind"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://nodejs.org" title="nodejs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>  <a href="https://expressjs.com" title="expressjs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a> <a href="https://firebase.google.com/" title="firebase" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<img align="left" alt="Visual Studio Code"  width="40" height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://git-scm.com/" title="git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" title="github" target="_blank"><img align="left" alt="GitHub"  width="40" height="40"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br>
-
- ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeysharmaks&show_icons=true&theme=radical&hide_border=true)
+</p>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysharmaks&layout=compact)
+<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+# 👨‍💻 About Me
+
+- 💼 Software Engineer specializing in **Frontend & Full Stack Development**
+- ⚛️ Building scalable applications using **React, Next.js and Node.js**
+- 🎨 Passionate about creating clean UI/UX experiences
+- 🚀 Interested in AI integrations, Prompt Engineering and LLM-powered applications
+- 🌱 Currently exploring **System Design, Cloud and AI Agents**
+- ✈️ Travel Content Creator sharing stories and experiences
+- 🧠 Strong foundation in DSA, debugging and software architecture
+- 🤝 Open to collaborations on Open Source & exciting products
+
+### 📫 Reach Me
+
+- **Email:** `kartikeysharma1616@gmail.com`
+- **Portfolio:** https://www.kartikeysharmaks.in
 
 ---
+
+# 🚀 Tech Stack
+
+## 💻 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,gatsby"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,java"/>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikeysharmaks&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeysharmaks&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysharmaks&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeysharmaks&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kartikeysharmaks&theme=radical&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 What I Do
+
+✔ Responsive Web Applications
+
+✔ React & Next.js Development
+
+✔ REST APIs
+
+✔ Full Stack JavaScript
+
+✔ UI/UX Development
+
+✔ Firebase Integration
+
+✔ AI Integration
+
+✔ Prompt Engineering
+
+✔ Code Reviews
+
+✔ Technical Problem Solving
+
+---
+
+# 🌍 Travel
+
+Besides coding, I love exploring new places, documenting journeys and creating travel content.
+
+> "Code. Travel. Repeat."
+
+---
+
+# 🎖 Achievements
+
+- 🚀 Built multiple production-ready web applications
+- 🌟 Passionate Open Source contributor
+- 📚 Continuous learner in AI & modern web technologies
+- 💡 Strong focus on performance and clean architecture
+
+---
+
+# 🏅 Holopin Badges
 
 [![@kartikeysharmaks's Holopin board](https://holopin.me/kartikeysharmaks)](https://holopin.io/@kartikeysharmaks)
 
 ---
 
-### Connect with me: 
+# 🌐 Connect with Me
 
+<p align="center">
 
-<p align="left">
-  <a href="https://www.kartikeysharmaks.in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webstorm" height="45" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kartikeysharmaks/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/kartikeysharmaks" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/Kartikey0302" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="45" alt="Twitter X"/>
-  </a>
-  <a href="https://www.facebook.com/kartikeysharma1616/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
-  </a>
-  <a href="https://www.reddit.com/user/Kartikeysharmaks" target="_blank">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" height="45" alt="Reddit"/>
-  </a>
+<a href="https://www.kartikeysharmaks.in" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kartikeysharmaks/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kartikeysharmaks" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/Kartikey0302" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/kartikeysharma1616/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.reddit.com/user/Kartikeysharmaks" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
 </p>
-<!---
-kartikeysharmaks/kartikeysharmaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
+
+⭐️ From **Kartikey Sharma**
