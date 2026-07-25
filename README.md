@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartikey Sharma</h1>
+<h1 align="center">Hi 👋, Myself Kartikey Sharma</h1>
 
 <h3 align="center">
 Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
@@ -10,6 +10,8 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </a>
 </p>
 
+<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&label=Profile+Views&color=0e75b6&style=flat)
@@ -18,9 +20,8 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💼 Software Engineer specializing in **Frontend & Full Stack Development**
 - ⚛️ Building scalable applications using **React, Next.js and Node.js**
@@ -40,113 +41,15 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 # 🚀 Tech Stack
 
-## 💻 Frontend
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,gatsby"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,gatsby,nodejs,express,firebase,java,mongodb,mysql,git,github,vscode,postman,figma,linux,webpack,ubuntu,supabase,replit,powershell,vercel,netlify"/>
 
 </p>
 
 ---
 
-## ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,java"/>
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikeysharmaks&show_icons=true&theme=radical&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=kartikeysharmaks&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysharmaks&layout=donut&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeysharmaks&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kartikeysharmaks&theme=radical&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🎯 What I Do
-
-✔ Responsive Web Applications
-
-✔ React & Next.js Development
-
-✔ REST APIs
-
-✔ Full Stack JavaScript
-
-✔ UI/UX Development
-
-✔ Firebase Integration
-
-✔ AI Integration
-
-✔ Prompt Engineering
-
-✔ Code Reviews
-
-✔ Technical Problem Solving
-
----
-
-# 🌍 Travel
+## 🌍 Travel
 
 Besides coding, I love exploring new places, documenting journeys and creating travel content.
 
@@ -154,7 +57,7 @@ Besides coding, I love exploring new places, documenting journeys and creating t
 
 ---
 
-# 🎖 Achievements
+## 🎖 Achievements
 
 - 🚀 Built multiple production-ready web applications
 - 🌟 Passionate Open Source contributor
@@ -171,40 +74,30 @@ Besides coding, I love exploring new places, documenting journeys and creating t
 
 # 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.kartikeysharmaks.in" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=googlechrome&color=%23f59e0b" alt="googlechrome" />
 </a>
 
 <a href="https://www.linkedin.com/in/kartikeysharmaks/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=linkedin" alt="linkedin" />
 </a>
 
 <a href="https://instagram.com/kartikeysharmaks" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=instagram&color=%23f59e0b" alt="instagram" />
 </a>
 
 <a href="https://twitter.com/Kartikey0302" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=twitter&size=96&color=%233b82f6" alt="twitter" />
 </a>
 
 <a href="https://www.facebook.com/kartikeysharma1616/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=facebook" alt="facebook" />
 </a>
 
 <a href="https://www.reddit.com/user/Kartikeysharmaks" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+<img src="https://www.readmecodegen.com/api/social-icon?name=reddit&color=%23ef4444" alt="reddit" />
 </a>
 
 </p>
-
----
-
-# 💬 Favorite Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-⭐️ From **Kartikey Sharma**
