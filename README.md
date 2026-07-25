@@ -12,7 +12,7 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </a>
 </p>
 
-<img align="center" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
+<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
 ## 👨‍💻 About Me
 
