@@ -10,8 +10,6 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </a>
 </p>
 
-<img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
 <p>
 
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&label=Profile+Views&color=0e75b6&style=flat)
@@ -66,13 +64,13 @@ Besides coding, I love exploring new places, documenting journeys and creating t
 
 ---
 
-# 🏅 Holopin Badges
+## 🏅 Holopin Badges
 
 [![@kartikeysharmaks's Holopin board](https://holopin.me/kartikeysharmaks)](https://holopin.io/@kartikeysharmaks)
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
 
@@ -89,7 +87,7 @@ Besides coding, I love exploring new places, documenting journeys and creating t
 </a>
 
 <a href="https://twitter.com/Kartikey0302" target="_blank">
-<img src="https://www.readmecodegen.com/api/social-icon?name=twitter&size=96&color=%233b82f6" alt="twitter" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=twitter&&color=%233b82f6" alt="twitter" />
 </a>
 
 <a href="https://www.facebook.com/kartikeysharma1616/" target="_blank">
