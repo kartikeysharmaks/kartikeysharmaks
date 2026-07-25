@@ -10,9 +10,9 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </a>
 </p>
 
-<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="center" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<p align="center">
+<p>
 
 ![](https://komarev.com/ghpvc/?username=kartikeysharmaks&label=Profile+Views&color=0e75b6&style=flat)
 
