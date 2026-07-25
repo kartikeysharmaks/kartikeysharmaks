@@ -6,9 +6,11 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+%7C+;AI+Integration+%7C+Prompt+Engineering;Agentic+Coding+%7C+LLM+Evaluation;Open+Source+Contributor;Building+Scalable+Digital+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Next.js;AI+Integration+%7C+Prompt+Engineering;Agentic+Coding+%7C+LLM+Evaluation;Open+Source+Contributor;Building+Scalable+Digital+Products" />
 </a>
 </p>
+
+<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
 <p>
 
