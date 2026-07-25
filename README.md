@@ -10,7 +10,7 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </a>
 </p>
 
-<img align="center" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <p>
 
