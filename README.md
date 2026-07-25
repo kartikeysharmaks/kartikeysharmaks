@@ -86,7 +86,7 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikeysharmaks&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeysharmaks&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kartikeysharmaks&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -96,7 +96,7 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysharmaks&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeysharmaks&layout=donut&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -116,7 +116,7 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kartikeysharmaks&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kartikeysharmaks&theme=radical&no-frame=true&row=2&column=4"/>
 
 </p>
 
