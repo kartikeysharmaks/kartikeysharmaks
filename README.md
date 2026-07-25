@@ -16,9 +16,6 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 </p>
 
----
-
-
 ## 👨‍💻 About Me
 
 - 💼 Software Engineer specializing in **Frontend & Full Stack Development**
@@ -35,8 +32,6 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 - **Email:** `kartikeysharma1616@gmail.com`
 - **Portfolio:** https://www.kartikeysharmaks.in
 
----
-
 # 🚀 Tech Stack
 
 <p>
@@ -45,15 +40,12 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 
 </p>
 
----
-
 ## 🌍 Travel
 
 Besides coding, I love exploring new places, documenting journeys and creating travel content.
 
 > "Code. Travel. Repeat."
 
----
 
 ## 🎖 Achievements
 
@@ -62,7 +54,6 @@ Besides coding, I love exploring new places, documenting journeys and creating t
 - 📚 Continuous learner in AI & modern web technologies
 - 💡 Strong focus on performance and clean architecture
 
----
 
 ## 🏅 Holopin Badges
 
