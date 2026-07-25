@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kartikeysharmaks&label=Profile+Views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi 👋, Myself Kartikey Sharma</h1>
 
 <h3 align="center">
@@ -10,16 +12,7 @@ Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </a>
 </p>
 
-
-<p>
-
-![](https://komarev.com/ghpvc/?username=kartikeysharmaks&label=Profile+Views&color=0e75b6&style=flat)
-
-
-  <img align="center" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
-
-
-</p>
+<img align="center" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
 ## 👨‍💻 About Me
 
