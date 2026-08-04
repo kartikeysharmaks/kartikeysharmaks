@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Myself Kartikey Sharma</h1>
 
 <h3 align="center">
-Frontend Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
+Software Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 </h3>
 
 <p align="center">
