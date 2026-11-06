@@ -28,7 +28,7 @@ Software Engineer • Full Stack Developer • Travel Content Creator 🇮🇳
 ### 📫 Reach Me
 
 - **Email:** `kartikeysharma1616@gmail.com`
-- **Portfolio:** https://www.kartikeysharmaks.in
+- **Portfolio:** https://kartikeysharmaks.in/
 
 # 🚀 Tech Stack
 
